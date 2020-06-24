@@ -10,6 +10,7 @@ MongoDB Atlas.
 - Promo code: GETATLAS (save $100)
     - However, to create cluster you should be add a payment method in you Atlas
       Organization.
+    - After add payment method, I can't see how to delete it. Take care...
 
 ## Parts
 
