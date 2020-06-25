@@ -1,7 +1,7 @@
-# MongoDB Terraform Atlas Provider for Azure
+# MongoDB Terraform Atlas Provider for AWS
 
 The MongoDB Atlas provider is used to interact with the resources supported by
-MongoDB Atlas, using Azure cloud.
+MongoDB Atlas, using AWS cloud.
 
 ## Important Notes
  
